@@ -1,0 +1,12 @@
+"1.eserAdı| yazarAdı| yayınYılı| ISBN| yayınYeri | yayınEvi
+"  "2.Korluk |Jose Saramago | 1995 | 978452154327 | istanbul| kırmızıkedi
+"  "3.Bin Muhtesem Gunes | Khaled Hosseini | 2010 |9876435261796 | istanbul | kırmızıkedi
+"  "4.Serenad | Zulfu Livaneli | 2011 | 97684532456 | İstanbul| Kırmızıkedi
+" "5.Suc ve Ceza | Dostoyevski | 2010 | 97658436712 | İstanbul | kırızıkedi
+"  "6.Nutuk | Mustafa Kemal Ataturk | 2012 | 978645378391 | istanbul | iş bankası kültür yayını
+" "7. Bir cokusun oykusu | stefan zweig |2017 | 9786053329527 | İstanbul | İş bankası kültür yayınları
+" "8. milena"ya mektuplar | Franz Kafka | 2013 | 97846537823 | istanbul | Panama yayıncılık
+" "9. kuyucaklı yusuf | Sabahattin Ali | 2001 |  9789750800016 | istanbul | Yapı kredi yayınları
+" "10. Kucuk mucizeler dukkani | Debbie Macomber | 2011 | 9786055420314 | İstanbul | Martı yayınları
+" "11. Vurun Kahpeye | Halide Edip Adıvar | 2016 | 9789750721670 | İstanbul | Can yayınları
+" yaş onyedi|ipek ongun|2005|987853542646|İstanbul|can
